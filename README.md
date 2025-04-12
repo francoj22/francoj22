@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://francoj22.github.io/](https://francoj22.github.io/)
 
-- 📝 I regularly write articles on [http://one.resolvebyme.com/](http://www.resolvebyme.com/)
+- 📝 I regularly write articles on [http://www.resolvebyme.com/](http://www.resolvebyme.com/)
 
 - 📫 How to reach me **franco.salazarg@gmail.com**
 
