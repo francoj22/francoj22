@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Franco Gutierrez</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate Full Stack Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoj22" alt="francoj22" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 Based in Ireland
 
 - 👨‍💻 All of my projects are available at [https://francoj22.github.io/](https://francoj22.github.io/)
 
