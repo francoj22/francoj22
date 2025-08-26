@@ -11,7 +11,7 @@
 
 -  Bringing consultancy for [http://www.sugifkms.com/](http://www.sugifkms.com/)
 
-- 📝 I regularly write articles on [http://www.resolvebyme.com/](http://www.resolvebyme.com/)
+- 📝 I regularly write articles on [http://www.resolvebyme.com/](http://www.resolvebyme.com/) (archived)
 
 - 📫 How to reach me **franco.salazarg@gmail.com**
 
