@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://francoj22.github.io/](https://francoj22.github.io/)
 
--  Bringing consultancy for [http://www.sugifkms.com/](http://www.sugifkms.com/)
+-  Providing consultancy on SaaS applications with [http://www.sugifkms.com/](http://www.sugifkms.com/)
 
-- 📝 I regularly write articles on [http://www.resolvebyme.com/](http://www.resolvebyme.com/) (archived)
+- 📝 I regularly wrote articles on [http://www.resolvebyme.com/](http://www.resolvebyme.com/) (archived)
 
 - 📫 How to reach me **franco.salazarg@gmail.com**
 
-- 📄 Know about my experiences [https://francoj22.github.io/](https://francoj22.github.io/)
+- 📄 Learn about my experiences at [https://francoj22.github.io/](https://francoj22.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
