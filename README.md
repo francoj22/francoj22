@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Franco Gutierrez</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoj22" alt="francoj22" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoj22" alt="francoj22" /></a> ![Screenshot - Processing All Images using ALT2Title](badges.png)</p> -->
 
 ## Google Badges Earned
 
-![Screenshot - Processing All Images using ALT2Title](badges.png)
 
 
+[![Image Alternate Text preview](https://github.com/francoj22/francoj22/blob/main/badges.png)](https://github.com/francoj22/francoj22/blob/main/badges.png)
 - 🌱 Based in Ireland
 
 - 👨‍💻 All of my projects are available at [https://francoj22.github.io/](https://francoj22.github.io/)
