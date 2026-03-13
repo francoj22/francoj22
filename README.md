@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Franco Gutierrez</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
-
+<img src="badge.png" alt="Adding Badge">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoj22" alt="francoj22" /></a> </p>
 
 - 🌱 Based in Ireland
